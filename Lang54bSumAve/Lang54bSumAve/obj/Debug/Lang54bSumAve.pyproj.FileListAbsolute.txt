@@ -1,0 +1,12 @@
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\Lang54bSumAve.exe.config
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\Lang54bSumAve.exe
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\Lang54bSumAve.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\IronPython.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\IronPython.Modules.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\obj\Debug\Lang54bSumAve.pyprojResolveAssemblyReference.cache
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\obj\Debug\Lang54bSumAve.MainForm.resources
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\obj\Debug\Lang54bSumAve.pyproj.GenerateResource.Cache
+C:\Users\mejialozano.a\Desktop\Programming1\Lang54bSumAve\Lang54bSumAve\obj\Debug\Lang54bSumAve.exe

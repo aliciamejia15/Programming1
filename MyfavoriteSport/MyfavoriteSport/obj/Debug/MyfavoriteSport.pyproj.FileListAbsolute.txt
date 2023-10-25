@@ -1,0 +1,12 @@
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\MyfavoriteSport.exe.config
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\MyfavoriteSport.exe
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\MyfavoriteSport.dll
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\IronPython.dll
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\IronPython.Modules.dll
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\obj\Debug\MyfavoriteSport.pyprojResolveAssemblyReference.cache
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\obj\Debug\MyfavoriteSport.MainForm.resources
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\obj\Debug\MyfavoriteSport.pyproj.GenerateResource.Cache
+C:\Users\mejialozano.a\Desktop\Programming1\MyfavoriteSport\MyfavoriteSport\obj\Debug\MyfavoriteSport.exe

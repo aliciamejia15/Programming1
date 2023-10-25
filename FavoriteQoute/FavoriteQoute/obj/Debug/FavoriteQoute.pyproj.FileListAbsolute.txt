@@ -1,0 +1,12 @@
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\FavoriteQoute.exe.config
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\FavoriteQoute.exe
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\FavoriteQoute.dll
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\IronPython.dll
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\IronPython.Modules.dll
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\obj\Debug\FavoriteQoute.pyprojResolveAssemblyReference.cache
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\obj\Debug\FavoriteQoute.MainForm.resources
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\obj\Debug\FavoriteQoute.pyproj.GenerateResource.Cache
+C:\Users\mejialozano.a\Desktop\Programming1\FavoriteQoute\FavoriteQoute\obj\Debug\FavoriteQoute.exe

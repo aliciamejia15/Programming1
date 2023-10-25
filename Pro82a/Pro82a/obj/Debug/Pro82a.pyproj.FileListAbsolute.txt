@@ -1,0 +1,12 @@
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\obj\Debug\Pro82a.pyprojResolveAssemblyReference.cache
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\obj\Debug\Pro82a.MainForm.resources
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\obj\Debug\Pro82a.pyproj.GenerateResource.Cache
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\Pro82a.exe.config
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\Pro82a.exe
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\Pro82a.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\IronPython.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\IronPython.Modules.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mejialozano.a\Desktop\Programming1\Pro82a\Pro82a\obj\Debug\Pro82a.exe
