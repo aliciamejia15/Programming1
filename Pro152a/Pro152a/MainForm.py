@@ -84,4 +84,9 @@ class MainForm(Form):
 		pass
 
 	def Button1Click(self, sender, e):
-		pass
+		sum = int()
+		for num in range(3,9669 +1, 3): 
+			
+			sum+= num
+			
+			self._label2.Text = "" + str(sum)
